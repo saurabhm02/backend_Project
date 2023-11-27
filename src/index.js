@@ -7,7 +7,7 @@ dotenv.config({
 })
 
 
-connectDb();
+connectDb()
 
 
 // import express from "express";
